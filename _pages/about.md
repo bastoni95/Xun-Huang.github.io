@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I am currently a undergraduate student at **Nanjing University of Science and Technology (NJUST)**. Since June 2025, I have been serving as a **Remote Research Intern** at **Nanyang Technological University (NTU)**, where I am privileged to work with [Dr. Xiaojun Jia](https://xiaojunjia.github.io/). My academic journey is driven by a commitment to building robust and secure AI systems.
+I am currently a undergraduate student at **Nanjing University of Science and Technology (NJUST)**. Since June 2025, I have been serving as a **Remote Research Intern** at **Nanyang Technological University (NTU)**, where I am privileged to work with [Dr. Xiaojun Jia](https://jiaxiaojunqaq.github.io/). My academic journey is driven by a commitment to building robust and secure AI systems.
 
 My research interests are primarily in the field of **AI Security**, with a particular focus on:
 * **LLM and Agent Security**: Including jailbreaking attacks on LLMs, adversarial prompt optimization, defensive alignment, security of LLM-based agents against Indirect Prompt Injection (IPI), and so on.
@@ -34,7 +34,7 @@ I am also maintaining a broad interest in emerging frontiers of AI security and 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "**CC-BOS**: Jailbreak Optimization Framework for LLMs under Classical Chinese Contexts" is accepted to **ICLR 2026**!
 - *2025.08*: &nbsp;🏆 Won the **Excellence Award** in the National College Student Information Security Contest (Works Contest).
-- *2025.06*: &nbsp;🌟 I joined **Nanyang Technological University (NTU)** as a Remote Research Intern, supervised by [Dr. Xiaojun Jia](https://xiaojunjia.github.io/).
+- *2025.06*: &nbsp;🌟 I joined **Nanyang Technological University (NTU)** as a Remote Research Intern, supervised by [Dr. Xiaojun Jia](https://jiaxiaojunqaq.github.io/).
 
 # 📝 Publications 
 
