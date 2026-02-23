@@ -41,7 +41,7 @@ I am also maintaining a broad interest in emerging frontiers of AI security and 
 - **CC-BOS: Jailbreak Optimization Framework for LLMs under Classical Chinese Contexts**, **Xun Huang**(first author) et al. **ICLR 2026**.
 - **Securing LLM Agents against IPI via Dynamic Auditing and Observation Sanitization**, **Xun Huang**(first author), et al.
 - **ECIDS: A Lightweight Semantic Packet-Level Intrusion Detection System for UAVs**, **Xun Huang**, et al. Manuscript in preparation.
-- **BERTector: LLM-based Intrusion Detection System**, et al., **Xun Huang** (Co-first author), et al.[Paper](https://arxiv.org/pdf/2508.10327)[Code](https://github.com/ALIENHHY/BERTector)
+- **BERTector: LLM-based Intrusion Detection System**, et al., **Xun Huang** (Co-first author), et al.[[Paper](https://arxiv.org/pdf/2508.10327)][[Code](https://github.com/ALIENHHY/BERTector)]
 
 # 🎖 Honors and Awards
 - *2025.08* Excellence Award, National College Student Information Security Contest.
