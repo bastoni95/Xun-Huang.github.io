@@ -26,7 +26,7 @@ My research interests are primarily in the field of **AI Security**, with a part
 I am also maintaining a broad interest in emerging frontiers of AI security and am open to exploring novel research directions.
 
 **📣 Currently, I am actively seeking Ph.D. opportunities starting in 2026 to further explore the frontiers of AI Safety and trustworthy machine learning. 🥺**
-**📌 Here is my [CV](https://xunhuang123.github.io/assets/pdf/CV_Xun_Huang_NJUST.pdf) for your reference, last updated in Feb. 2026. 🤩**
+**📌 Here is my [CV](https://drive.google.com/file/d/1s2cnRghk372uyd1BXzyVlClbXLq2cC8Q/view?usp=sharing) for your reference, last updated in Feb. 2026. 🤩**
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "**CC-BOS**: Jailbreak Optimization Framework for LLMs under Classical Chinese Contexts" is accepted to **ICLR 2026**!
 - *2025.08*: &nbsp;🏆 Won the **Excellence Award** in the National College Student Information Security Contest (Works Contest).
