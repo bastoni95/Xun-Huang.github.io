@@ -26,7 +26,9 @@ My research interests are primarily in the field of **AI Security**, with a part
 I am also maintaining a broad interest in emerging frontiers of AI security and am open to exploring novel research directions.
 
 **📣 Currently, I am actively seeking Ph.D. opportunities starting in 2026 to further explore the frontiers of AI Safety and trustworthy machine learning. 🥺**
+
 **📌 Here is my [CV](https://drive.google.com/file/d/1s2cnRghk372uyd1BXzyVlClbXLq2cC8Q/view?usp=sharing) for your reference, last updated in Feb. 2026. 🤩**
+
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "**CC-BOS**: Jailbreak Optimization Framework for LLMs under Classical Chinese Contexts" is accepted to **ICLR 2026**!
 - *2025.08*: &nbsp;🏆 Won the **Excellence Award** in the National College Student Information Security Contest (Works Contest).
@@ -37,7 +39,7 @@ I am also maintaining a broad interest in emerging frontiers of AI security and 
 - **CC-BOS: Jailbreak Optimization Framework for LLMs under Classical Chinese Contexts**, **Xun Huang**(first author) et al. **ICLR 2026**.
 - **Securing LLM Agents against IPI via Dynamic Auditing and Observation Sanitization**, **Xun Huang**(first author), et al.
 - **ECIDS: A Lightweight Semantic Packet-Level Intrusion Detection System for UAVs**, **Xun Huang**, et al. Manuscript in preparation.
-- **BERTector: LLM-based Intrusion Detection System**, et al., **Xun Huang** (Co-first author).[[Paper]](https://arxiv.org/pdf/2508.10327)[[Code]](https://github.com/ALIENHHY/BERTector)
+- **BERTector: LLM-based Intrusion Detection System**, et al., **Xun Huang** (Co-first author), et al.[Paper](https://arxiv.org/pdf/2508.10327)[Code](https://github.com/ALIENHHY/BERTector)
 
 # 🎖 Honors and Awards
 - *2025.08* Excellence Award, National College Student Information Security Contest.
@@ -46,7 +48,7 @@ I am also maintaining a broad interest in emerging frontiers of AI security and 
 - *2024.03* Second Prize, National University Mathematics Competition, Jiangsu Province.
 - *2023.06* Second Prize, "TIPDM CUP" Data Mining Challenge, Jiangsu Province.
 
-# 📖 Education
+# 📖 Educations
 - *2022.09 - Present*, **B.Eng in Data Science and Big Data Technology**, Nanjing University of Science and Technology (NJUST). (GPA: **89.32/100**, Rank: **Top 5%**; IELTS: **6.5**)
 
 # 💻 Internships
