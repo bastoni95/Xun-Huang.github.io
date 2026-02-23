@@ -29,7 +29,6 @@ I am also maintaining a broad interest in emerging frontiers of AI security and 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper "**CC-BOS**: Jailbreak Optimization Framework for LLMs under Classical Chinese Contexts" is accepted to **ICLR 2026**!
-- *2025.10*: &nbsp;🚀 Submitted a first-author paper on securing LLM agents against Indirect Prompt Injection (IPI) to **ICML 2026**.
 - *2025.08*: &nbsp;🏆 Won the **Excellence Award** in the National College Student Information Security Contest (Works Contest).
 - *2025.06*: &nbsp;🌟 I joined **Nanyang Technological University (NTU)** as a Remote Research Intern, supervised by [Dr. Xiaojun Jia](https://xiaojunjia.github.io/).
 
